@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BootCamp\\TeamProject\\2_2Dgame\\4gods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B856B395-20B6-B9AB-5CA3-85BC435F8993}|Assembly-CSharp.csproj|c:\\bootcamp\\teamproject\\2_2dgame\\4gods\\assets\\script\\pss\\scenesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B856B395-20B6-B9AB-5CA3-85BC435F8993}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pss\\scenesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B856B395-20B6-B9AB-5CA3-85BC435F8993}|Assembly-CSharp.csproj|c:\\bootcamp\\teamproject\\2_2dgame\\4gods\\assets\\script\\ksh\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B856B395-20B6-B9AB-5CA3-85BC435F8993}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ksh\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\BootCamp\\TeamProject\\2_2Dgame\\4gods\\Assets\\Script\\KSH\\Monster.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\KSH\\Monster.cs",
+              "ToolTip": "C:\\BootCamp\\TeamProject\\2_2Dgame\\4gods\\Assets\\Script\\KSH\\Monster.cs",
+              "RelativeToolTip": "Assets\\Script\\KSH\\Monster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T02:18:39.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScenesManager.cs",
+              "DocumentMoniker": "C:\\BootCamp\\TeamProject\\2_2Dgame\\4gods\\Assets\\Script\\PSS\\ScenesManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PSS\\ScenesManager.cs",
+              "ToolTip": "C:\\BootCamp\\TeamProject\\2_2Dgame\\4gods\\Assets\\Script\\PSS\\ScenesManager.cs",
+              "RelativeToolTip": "Assets\\Script\\PSS\\ScenesManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T02:18:18.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
