@@ -3,11 +3,7 @@
   "WorkspaceRootPath": "C:\\BootCamp\\TeamProject\\2_2Dgame\\4gods\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B856B395-20B6-B9AB-5CA3-85BC435F8993}|Assembly-CSharp.csproj|C:\\BootCamp\\TeamProject\\2_2Dgame\\4gods\\assets\\script\\treasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B856B395-20B6-B9AB-5CA3-85BC435F8993}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\treasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B856B395-20B6-B9AB-5CA3-85BC435F8993}|Assembly-CSharp.csproj|c:\\bootcamp\\teamproject\\2_2dgame\\4gods\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B856B395-20B6-B9AB-5CA3-85BC435F8993}|Assembly-CSharp.csproj|C:\\BootCamp\\TeamProject\\2_2Dgame\\4gods\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B856B395-20B6-B9AB-5CA3-85BC435F8993}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,16 +11,20 @@
       "RelativeMoniker": "D:0:0:{B856B395-20B6-B9AB-5CA3-85BC435F8993}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scenesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B856B395-20B6-B9AB-5CA3-85BC435F8993}|Assembly-CSharp.csproj|C:\\BootCamp\\TeamProject\\2_2Dgame\\4gods\\assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B856B395-20B6-B9AB-5CA3-85BC435F8993}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B856B395-20B6-B9AB-5CA3-85BC435F8993}|Assembly-CSharp.csproj|C:\\BootCamp\\TeamProject\\2_2Dgame\\4gods\\assets\\script\\normaldoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B856B395-20B6-B9AB-5CA3-85BC435F8993}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\normaldoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B856B395-20B6-B9AB-5CA3-85BC435F8993}|Assembly-CSharp.csproj|c:\\bootcamp\\teamproject\\2_2dgame\\4gods\\assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B856B395-20B6-B9AB-5CA3-85BC435F8993}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B856B395-20B6-B9AB-5CA3-85BC435F8993}|Assembly-CSharp.csproj|C:\\BootCamp\\TeamProject\\2_2Dgame\\4gods\\assets\\script\\torchcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B856B395-20B6-B9AB-5CA3-85BC435F8993}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\torchcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B856B395-20B6-B9AB-5CA3-85BC435F8993}|Assembly-CSharp.csproj|c:\\bootcamp\\teamproject\\2_2dgame\\4gods\\assets\\script\\treasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B856B395-20B6-B9AB-5CA3-85BC435F8993}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\treasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,20 +42,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Treasure.cs",
               "DocumentMoniker": "C:\\BootCamp\\TeamProject\\2_2Dgame\\4gods\\Assets\\Script\\Treasure.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Treasure.cs",
               "ToolTip": "C:\\BootCamp\\TeamProject\\2_2Dgame\\4gods\\Assets\\Script\\Treasure.cs",
               "RelativeToolTip": "Assets\\Script\\Treasure.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAADwvxEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T01:09:57.643Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "TorchControl.cs",
               "DocumentMoniker": "C:\\BootCamp\\TeamProject\\2_2Dgame\\4gods\\Assets\\Script\\TorchControl.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\TorchControl.cs",
@@ -68,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "NormalDoor.cs",
               "DocumentMoniker": "C:\\BootCamp\\TeamProject\\2_2Dgame\\4gods\\Assets\\Script\\NormalDoor.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\NormalDoor.cs",
@@ -81,26 +81,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\BootCamp\\TeamProject\\2_2Dgame\\4gods\\Assets\\Script\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\GameManager.cs",
               "ToolTip": "C:\\BootCamp\\TeamProject\\2_2Dgame\\4gods\\Assets\\Script\\GameManager.cs",
               "RelativeToolTip": "Assets\\Script\\GameManager.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAqwE8AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwDMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T23:31:24.74Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ScenesManager.cs",
               "DocumentMoniker": "C:\\BootCamp\\TeamProject\\2_2Dgame\\4gods\\Assets\\Script\\ScenesManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\ScenesManager.cs",
               "ToolTip": "C:\\BootCamp\\TeamProject\\2_2Dgame\\4gods\\Assets\\Script\\ScenesManager.cs",
               "RelativeToolTip": "Assets\\Script\\ScenesManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T23:30:39.159Z",
               "EditorCaption": ""
@@ -113,7 +113,7 @@
               "RelativeDocumentMoniker": "Assets\\Script\\Player.cs",
               "ToolTip": "C:\\BootCamp\\TeamProject\\2_2Dgame\\4gods\\Assets\\Script\\Player.cs",
               "RelativeToolTip": "Assets\\Script\\Player.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAiwEoAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAQwE0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T20:01:15.443Z",
               "EditorCaption": ""

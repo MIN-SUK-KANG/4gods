@@ -61,26 +61,25 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.40f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Script\KSH\Monster\Bee\Bee.cs" />
-    <Compile Include="Assets\Free Wood Door Pack\Script\Door.cs" />
-    <Compile Include="Assets\Script\KSH\Monster\Monster.cs" />
-    <Compile Include="Assets\Script\KSH\Monster\PlantMonsterFlower\SeedBullet.cs" />
-    <Compile Include="Assets\Script\PSS\Player.cs" />
-    <Compile Include="Assets\Free Wood Door Pack\Script\FPSController.cs" />
-    <Compile Include="Assets\Script\KSH\Monster\Balloon\Balloon.cs" />
-    <Compile Include="Assets\TooCubeForest\demoScenes\Movement.cs" />
-    <Compile Include="Assets\Script\PSS\ScenesManager.cs" />
-    <Compile Include="Assets\Script\KSH\SeedPool.cs" />
-    <Compile Include="Assets\Script\KSH\Monster\MonsterState.cs" />
-    <Compile Include="Assets\Free Wood Door Pack\Script\CameraOpenDoor.cs" />
-    <Compile Include="Assets\Script\KSH\Monster\MonsterStateMachine.cs" />
-    <Compile Include="Assets\Script\KSH\Monster\PlantMonsterFlower\PlantMonsterFlower.cs" />
+    <Compile Include="Assets\Script\Monster\SeedPool.cs" />
+    <Compile Include="Assets\Script\Monster\MonsterStateMachine.cs" />
+    <Compile Include="Assets\Script\Player.cs" />
+    <Compile Include="Assets\Script\Treasure.cs" />
+    <Compile Include="Assets\Script\Monster\PlantMonsterFlower\SeedBullet.cs" />
+    <Compile Include="Assets\Script\Monster\Bee\Bee.cs" />
+    <Compile Include="Assets\Script\Monster\Balloon\Balloon.cs" />
+    <Compile Include="Assets\Script\TorchControl.cs" />
+    <Compile Include="Assets\Script\Monster\MonsterState.cs" />
+    <Compile Include="Assets\Script\Monster\PlantMonsterFlower\PlantMonsterFlower.cs" />
+    <Compile Include="Assets\Script\NormalDoor.cs" />
+    <Compile Include="Assets\Script\GameManager.cs" />
+    <Compile Include="Assets\Script\ScenesManager.cs" />
+    <Compile Include="Assets\Script\Monster\Monster.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\Knight Files\Read Me.txt" />
-    <None Include="Assets\Images\oak_woods_v1.0\readme.TXT" />
+    <None Include="Assets\Images\Knight Files\Read Me.txt" />
+    <None Include="Assets\Scenes\씬 제작.txt" />
     <None Include="Assets\Images\Four Seasons Platformer Tileset [16x16][FREE] - RottingPixels\RottingPixels.txt" />
-    <None Include="Assets\Images\fantasy_ [version 2.0]\readMe_.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -1107,6 +1106,10 @@
       <HintPath>Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.Cinemachine.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Cinemachine.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.2D.SpriteShape.Runtime">
       <HintPath>Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll</HintPath>
       <Private>False</Private>
@@ -1151,12 +1154,20 @@
       <HintPath>Library\ScriptAssemblies\Unity.Multiplayer.Center.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.Splines">
+      <HintPath>Library\ScriptAssemblies\Unity.Splines.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.Mathematics.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.RenderPipelines.GPUDriven.Runtime">
       <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.GPUDriven.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Cinemachine">
+      <HintPath>Library\ScriptAssemblies\Unity.Cinemachine.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.InternalAPIEditorBridge.001">
@@ -1197,6 +1208,10 @@
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Config.Runtime">
       <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Config.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Splines.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Splines.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.2D.Aseprite.Common">
