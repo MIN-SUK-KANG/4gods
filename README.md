@@ -8,3 +8,5 @@
 4. 계획 대다수를 날려버리고 그냥 맵 이동시 랜덤 다른 맵으로 이동하는 부분 정도와 기본 구상만 남김.
 
 ※ https://docs.google.com/spreadsheets/d/1t5aZtTCPclPGMCcXn_QFh4P1Y7OJLePbBnCT4p4Z2VI/edit?gid=0#gid=0
+
+프로젝트 제출에 업로드한 파일은 게임 빌드 완료된 exe 파일이며, 팀장으로서 올려야 하는 전체 게임 파일은 제공된 구글 드라이브에 업로드함.
